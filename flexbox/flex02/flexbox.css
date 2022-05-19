@@ -1,7 +1,8 @@
 .container{
-  width: 100%;
+  width: 200px;
   display: flex;
   flex-wrap: wrap;
+  border: 5px solid black
 }
 
 .box{
