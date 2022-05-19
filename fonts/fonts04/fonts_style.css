@@ -1,18 +1,8 @@
+
 /* p{
-    font-family:'Courier New', Courier, monospace
+    font: italic small-caps bold 15px Arial, Helvetica, sans-serif;
 } */
 
-/* p {
-    font-family: Verdana, Helvetica, sans-serif;
-    font-size: 48px;
-    font-weight: bold;
-    font-style: italic;
-    text-decoration: underline;
-} */
-
-p{
-    font-size:48;
-    font-weight:bold;
-    font-style:italic;
-    text-decoration:underline;
+p {
+    font: small-caps bold 24px Courier;
   }
